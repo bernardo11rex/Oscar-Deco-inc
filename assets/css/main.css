@@ -2166,6 +2166,7 @@
 	#p {
 		position: relative;
 		top: 25px;
+		text-decoration: none;
 	}
 	#direccion {
 		text-decoration: none;
